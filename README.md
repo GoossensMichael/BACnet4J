@@ -39,9 +39,9 @@ The dependency information is:
 
 ```xml
 <dependency>
-    <groupId>com.serotonin</groupId>
+    <groupId>com.infiniteautomation</groupId>
     <artifactId>bacnet4j</artifactId>
-    <version>5.0.0-SNAPSHOT</version>
+    <version>5.0.1</version>
 </dependency>
 ```
 
